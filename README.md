@@ -1,11 +1,5 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+<h1 align="center">Tamer Alborsh, Full Stack Web Developer </h1>  
   
-
-### <div align="center">Tamer Alborsh, Full Stack Web Developer </div>  
-  
-
 - Experience in developing PHP Laravel applications, including planning, designing, developing, testing, deploying, and maintaining.  
   
 
