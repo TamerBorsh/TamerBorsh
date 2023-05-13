@@ -1,4 +1,4 @@
-<h1 align="center">Tamer Ibrahim Mohammed Alborsh - Full Stack Web Developer </h1>  
+<h2 align="center">Tamer Ibrahim Mohammed Alborsh - Full Stack Web Developer </h2>  
   
 - Experience in developing PHP Laravel applications, including planning, designing, developing, testing, deploying, and maintaining.  
   
